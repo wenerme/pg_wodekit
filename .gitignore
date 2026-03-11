@@ -1,0 +1,6 @@
+/target
+/tmp
+*.so
+*.dylib
+*.dll
+*.local.md
